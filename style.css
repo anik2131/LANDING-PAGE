@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: floralwhite;
+    height:70px;
+}
+.col-3{
+    width: 33%;
+    float: left;
+    height:60px;
+    text-align: center;
+}
+
+.col-3 h1{
+    color: cornflowerblue;
+    margin-left: 10px;
+}
+
+.col-3 ul{
+    margin-top: 30px;
+}
+.col-3 li{
+    list-style: none;
+    display: inline;
+    padding: 5px 5px 5px 20px;
+}
+
+.col-3 button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 15px 15px 15px;
+    color: green;
+    border-radius: 19px;
+    margin-top: 13px;
+    border-style: none;
+}
+
+.welcome{
+    background-image: url('images/welcome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:600px;
+}
+
+.heading{
+    margin: 0px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 110px;
+    width:99%;
+    font-weight: 200;
+    
+}
+
+.welcome p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.new-release{
+    background-color: aliceblue;
+    width: 100%;
+    height: 950px;
+}
+
+.col-2{
+    float: left;
+    height: 950px;
+    width:50%;
+}
+
+.info{
+    text-align: center;
+    padding: 150px 0px 0px 0px;
+}
+
+.info h1{
+    font-size: 70px;
+    color: blue;
+}
+
+.info p{
+    font-size: 30px;
+    color: dodgerblue;
+}
+
+.old-release{
+    background-color: aliceblue;
+    width: 100%;
+    height: 850px;
+}
+
+.old-release .col-2{
+    float: left;
+    height: 850px;
+    width:50%;
+}
+
+.form{
+    margin:auto;
+    width:35%;
+    padding:100px;
+}
+
+.form input{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+
+.form button{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    border-radius: 12px;
+    border-style: none;
+    color: white;
+    background-color: limegreen;
+}
+
+.register{
+    background-image: url(images/workplace.jpg);
+    height:600px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.other-selling{
+    width:100%;
+    height:700px;
+    background-color: cornflowerblue;
+}
+
+.other-selling h1{
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    color: aliceblue;
+}
+
+.other-selling .col-3{
+    width:31%;
+    margin-left: 30px;
+    margin-top: 40px;
+    float: left;
+}
+
+.info-other h1{
+    font-size: 30px;
+    color: white;
+}
+
+.info-other p{
+    font-size:  20px;
+    color:aliceblue;
+}
+
+.no-wait{
+    margin: auto;
+    color: aliceblue;
+    padding: 140px 50px 50px 100px;
+}
+
+.no-wait h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.no-wait a{
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    background-color: limegreen;
+    color: aliceblue;
+    border-radius: 12px;
+    border-style: none;
+}
+
+.footer{
+    background-image: url(images/footer.jpg);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.footer .col-3{
+    padding: 150px 0px 0px 0px;
+}
+
+.footer h1{
+    margin: 0px;
+    padding: 620px 0px 0px 0px;
+    color: aliceblue;
+    text-align: center;
+}
