@@ -143,13 +143,14 @@ body{
     text-align: center;
     font-size: 40px;
     margin: 0;
+    padding: 50px 0px 0px 0px;
     color: aliceblue;
 }
 
 .other-selling .col-3{
     width:31%;
     margin-left: 30px;
-    margin-top: 140px;
+    margin-top: 120px;
     float: left;
 }
 
@@ -168,7 +169,7 @@ body{
 .no-wait{
     margin: auto;
     color: aliceblue;
-    padding: 140px 50px 50px 100px;
+    padding: 350px 50px 50px 150px;
 }
 
 .no-wait h1{
